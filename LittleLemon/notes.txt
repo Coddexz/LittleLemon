@@ -1,0 +1,37 @@
+super user:
+    username: admin
+    email address: admin@littlelemon.com
+    password: lemon@789!
+    token: 6a27b11e98e15939c78fc7f55774cc2e49c1a248
+
+manager:
+    username: man-1
+    email address: man-1@post.com
+    password: 123bbb##
+    token: 1ace35e718a1ccbcd163421362bbb0a508c1e18c
+
+    username: man-2
+    password: 123ccc##
+    token: e9f05e34bcb37c94dbdbcab5efab65cd5aeb5353
+
+delivery crew:
+    username: del-1
+    email address: del-1@post.com
+    password: 123ccc##
+    token: 520cd3578ea28af4d3d8272f8dbe7acd2c9b59e7
+
+user:
+    username: user-1
+    password: 123aaa##
+    email address: user-1@post.com
+    token: de12c4f8e7ef0ed288b53fe15d274362246a572f
+
+    username: user-2
+    password: 123aaa##
+    email address: user-2@post.com
+    token: 34d9e4a51a52ca1f5abe4c5535ca8b28cabf0330
+
+nonasigned
+    login: bob
+    password: 666sss$$$
+    token: d38776a367febac0965d053da75d60b1143495eb
