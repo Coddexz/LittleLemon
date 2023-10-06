@@ -16,16 +16,16 @@ Pipenv was used to manage dependencies and create the virtual environment. SQLit
 ## Instalation and usage
 To use Little Lemon Restaurant API, follow these steps:
 1. Navigate to the project's directory  
-*cd LittleLemon*
+`cd LittleLemon`
 2. Activate the virtual environment  
-*pipenv shell*
+`pipenv shell`
 3. Install all dependencies  
-*pipenv install*
+`pipenv install`
 4. Apply database migrations  
-*python manage.py makemigrations*
-*python manage.py migrate*
+`python manage.py makemigrations`
+`python manage.py migrate`
 5. Run the server  
-*python manage.py runserver*
+`python manage.py runserver`
 
 Endpoints:
 - '**/auth/users**'
